@@ -1,0 +1,1 @@
+"""İş kuralları katmanı."""
